@@ -1,8 +1,10 @@
 ### Hello world, I'm jin👋
 <!--노션 자기소개 페이지 추가-->
 <a href="https://diligent-mangosteen-06d.notion.site/749227b6a2d04bdd94bb3145841bd9ab" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=#000000"/></a>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=U-jinLee)](https://github.com/U-jinLee/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=U-jinLee)](https://github.com/U-jinLee/github-readme-stats)-->
+<!---->
+<!--백준 티어 등급 추가-->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ucb1029)](https://solved.ac/ucb1029)
+<!---->
 <!--
 **U-jinLee/U-jinLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
