@@ -2,6 +2,9 @@
 <!--노션 자기소개 페이지 추가-->
 <a href="https://diligent-mangosteen-06d.notion.site/749227b6a2d04bdd94bb3145841bd9ab" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=#000000"/></a>
 <!---->
+<!--자바 기술스택 추가-->
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-Green?style=flat&logo=Java&logoColor=로고색"/></a>
+<!---->
 <!--백준 티어 등급 추가-->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ucb1029)](https://solved.ac/ucb1029)
 <!---->
