@@ -12,6 +12,9 @@
 </div>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>
 <!---->
+<div id="testTool">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit&logoColor=white"/></a>
+</div>
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
