@@ -26,7 +26,10 @@
 </div>
 
 #### 🌱 I’m currently learning ...
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=로고색"/></a>
+<div id = "learn">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=로고색"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/></a>
+</div>
 
 <!--백준 티어 등급 추가-->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ucb1029)](https://solved.ac/ucb1029)
