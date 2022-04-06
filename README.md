@@ -5,7 +5,7 @@
 #### Back-End
 <!--스킬-->
 <div id = "language">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=로고색"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
 </div>
 <div id = "framework">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
