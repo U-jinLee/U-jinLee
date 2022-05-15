@@ -10,6 +10,9 @@
 <div id = "framework">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
 </div>
+<div id = "ORM">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/></a>  
+</div>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>
 <!---->
 <div id="testTool">
@@ -20,11 +23,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
 </div>
 
-#### Dev-Ops
-<div id = "dataBase">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
-</div>
-
 #### Collaboration
 <div id= "collaboration">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
@@ -33,7 +31,6 @@
 
 #### 🌱 I’m currently learning ...
 <div id = "learn">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/></a>
 </div>
 
