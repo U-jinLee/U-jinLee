@@ -42,7 +42,6 @@
 
 #### 🌱 I’m currently learning ...
 <div id = "learn">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>
 </div>
 
