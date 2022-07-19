@@ -47,6 +47,7 @@
 </div>
 
 <!--백준 티어 등급 추가-->
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ucb1029)](https://solved.ac/ucb1029)
 <!---->
 
