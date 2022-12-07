@@ -11,7 +11,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
 </div>
 <div id = "ORM">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/></a>  
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/QueryDsl-232F3E?style=flat&logo=QueryDsl&logoColor=white"/></a>
 </div>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>
 <!---->
@@ -43,7 +44,6 @@
 #### 🌱 I’m currently learning ...
 <div id = "learn">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/QueryDsl-232F3E?style=flat&logo=QueryDsl&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
 </div>
 
