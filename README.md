@@ -35,6 +35,11 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/></a>
 </div>
 
+#### DevOps
+<div id = "dev_ops">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>
+</div>
+
 #### Collaboration
 <div id= "collaboration">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
