@@ -50,7 +50,7 @@
 #### 🌱 I’m currently learning ...
 <div id = "learn">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
+<!--   <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a> -->
 </div>
 
 <!--백준 티어 등급 추가-->
