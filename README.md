@@ -54,7 +54,6 @@
 </div>  -->
 
 <!--백준 티어 등급 추가-->
-[![Codewars프로필](https://www.codewars.com/users/U-jinLee/badges/small)](https://www.codewars.com/users/U-jinLee/badges/small)<br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ucb1029)](https://solved.ac/profile/ucb1029)
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ucb1029)](https://solved.ac/profile/ucb1029)<br>
+[![Codewars프로필](https://www.codewars.com/users/U-jinLee/badges/small)](https://www.codewars.com/users/U-jinLee/badges/small)
 
