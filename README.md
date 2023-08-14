@@ -17,7 +17,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>
 <!---->
 <div id="testTool">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"/></a>
 </div>
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/></a>
@@ -46,15 +46,3 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </div>
-
-<!-- #### 🌱 I’m currently learning ...
-<div id = "learn">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
-</div>  -->
-
-
-<!--백준 티어 등급 추가-->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ucb1029)](https://solved.ac/profile/ucb1029)<br>
-[![Codewars프로필](https://www.codewars.com/users/U-jinLee/badges/small)](https://www.codewars.com/users/U-jinLee/badges/small)
-
