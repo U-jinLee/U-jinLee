@@ -1,7 +1,3 @@
-### Hello world, I'm jin👋
-<!--노션 자기소개 페이지 추가-->
-<a href="https://diligent-mangosteen-06d.notion.site/749227b6a2d04bdd94bb3145841bd9ab" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=#000000"/></a>
-<!---->
 #### Back-End
 <!--스킬-->
 <div id = "language">
