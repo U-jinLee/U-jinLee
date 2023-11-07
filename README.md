@@ -23,14 +23,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
 </div>
 
-#### Front-End
-<div id = "template">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Mustache-000000?style=flat&logo=Mustache&logoColor=white"/></a>
-</div>
-<div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/></a>
-</div>
-
 #### DevOps
 <div id = "dev_ops">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>
