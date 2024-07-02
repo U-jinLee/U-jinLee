@@ -1,7 +1,3 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/U-jinLee"/>
-</a>
-
 #### Back-End
 <!--스킬-->
 <div id = "language">
@@ -37,4 +33,9 @@
 <div id= "collaboration">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+</div>
+<div>
+  <a href="https://github.com/devxb/gitanimals" width>
+    <img src="https://render.gitanimals.org/farms/U-jinLee"/>
+  </a>
 </div>
