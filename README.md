@@ -1,7 +1,7 @@
 #### Back-End
 <!--스킬-->
 <div id = "language">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white"/></a>
 </div>
 <div id = "framework">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
@@ -24,6 +24,12 @@
 <div>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
+</div>
+
+#### Front-End
+<div id = "language">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Mustache-6DB33F?style=flat&logo=mustache&logoColor=white"/></a>
 </div>
 
 #### DevOps
