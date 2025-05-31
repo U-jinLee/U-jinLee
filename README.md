@@ -4,26 +4,21 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white"/></a>
 </div>
 <div id = "framework">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/QueryDsl-59666C?style=flat&logo=hibernate&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>
 </div>
-<div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/></a>
-</div>
-<div id = "ORM">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/QueryDsl-232F3E?style=flat&logo=QueryDsl&logoColor=white"/></a>
-</div>
-<div id = "NOSQL">
+<div id = "database">
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white"/></a>
 </div>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></a>
 <!---->
-<div id="testTool">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"/></a>
-</div>
 <div>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visualstudiocode&logoColor=white"/></a>
 </div>
 
 #### Front-End
@@ -34,8 +29,8 @@
 
 #### DevOps
 <div id = "dev_ops">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazonec2&logoColor=white"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazons3&logoColor=white"/></a>
 </div>
 
 #### Collaboration
