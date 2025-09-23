@@ -45,3 +45,6 @@
 <div id= "collaboration">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Dokcer-2496ED?style=flat&logo=Docker&logoColor=white"/></a>
 </div>
+
+### I am currently studying
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
