@@ -1,8 +1,8 @@
 # Introduce
 안녕하세요 백엔드 개발자 이유진입니다.
 
+## 🛠️ Tech Stack
 #### Back-End
-
 <!--스킬-->
 <div id = "language">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=coffeescript&logoColor=white"/></a>
